@@ -1,0 +1,3 @@
+Multiprocessing creates separate processes.
+It helps to bypass the GIL limitation.
+Important terms: process, pool, queue, shared memory.
